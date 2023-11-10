@@ -1,0 +1,15 @@
+/home/brad1996/TicTacToe/bin/Debug/net7.0/TicTacToe
+/home/brad1996/TicTacToe/bin/Debug/net7.0/TicTacToe.deps.json
+/home/brad1996/TicTacToe/bin/Debug/net7.0/TicTacToe.runtimeconfig.json
+/home/brad1996/TicTacToe/bin/Debug/net7.0/TicTacToe.dll
+/home/brad1996/TicTacToe/bin/Debug/net7.0/TicTacToe.pdb
+/home/brad1996/TicTacToe/obj/Debug/net7.0/TicTacToe.csproj.AssemblyReference.cache
+/home/brad1996/TicTacToe/obj/Debug/net7.0/TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+/home/brad1996/TicTacToe/obj/Debug/net7.0/TicTacToe.AssemblyInfoInputs.cache
+/home/brad1996/TicTacToe/obj/Debug/net7.0/TicTacToe.AssemblyInfo.cs
+/home/brad1996/TicTacToe/obj/Debug/net7.0/TicTacToe.csproj.CoreCompileInputs.cache
+/home/brad1996/TicTacToe/obj/Debug/net7.0/TicTacToe.dll
+/home/brad1996/TicTacToe/obj/Debug/net7.0/refint/TicTacToe.dll
+/home/brad1996/TicTacToe/obj/Debug/net7.0/TicTacToe.pdb
+/home/brad1996/TicTacToe/obj/Debug/net7.0/TicTacToe.genruntimeconfig.cache
+/home/brad1996/TicTacToe/obj/Debug/net7.0/ref/TicTacToe.dll
